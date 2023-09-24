@@ -1,0 +1,2 @@
+# pokemon-app
+Studying React
